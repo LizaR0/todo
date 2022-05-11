@@ -1,0 +1,24 @@
+h1{
+    background: linear-gradient(45deg,blueviolet,blue,blueviolet);
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    width: 35%;
+}
+table{
+    width: 50%;
+    background-color: gray;
+}
+table:hover{
+    background-color: azure;
+}
+/* .text-danger{
+    background-color: bisque;
+    right: 0;
+    top: 0;
+}
+.text-danger:hover{
+    background-color: #343434;
+} */
